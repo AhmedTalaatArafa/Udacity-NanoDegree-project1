@@ -9,6 +9,8 @@ These applications include: facial tracking, facial pose recognition, facial fil
 
 
 The project will be broken up into a few main parts in four Python notebooks,
+
+
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
 __Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
